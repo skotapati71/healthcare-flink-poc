@@ -51,6 +51,6 @@ The aggregated output is written into relation database (mysql) using flink-jdbc
 
 As an extra step, Grafana dashboard can be created to visualize the data in realtime by hooking it to mysql.
   
-![Grafana](https://github.com/user-attachments/assets/ea0fc50c-757d-4bf9-b1f3-d37e34a14385)
+![Grafana](https://github.com/user-attachments/assets/7bf817c9-701b-402c-aed9-38d929cb2699)
 
 
