@@ -5,7 +5,8 @@ This reposiotry demonstartes the proof of concept in action with Kafka in Kraft 
 UseCase: Find Medical Condition of patients realtime and insights. Kaggle Healthcare Dataset (the csv file) is as an input. 
 
 ## Architecture
-![Healthcar-Kafka-Flink-POC](https://github.com/user-attachments/assets/c0aa84bf-26a3-4b44-a962-ca7c6aa0e229)
+![Healthcar-Kafka-Flink-POC](https://github.com/user-attachments/assets/c0c67f8e-17d9-4f9c-85fa-d780e99dc5ca)
+
 
 Steps to install ..
 
